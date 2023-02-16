@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.store-item {
+  width: 25%;
+  align-items: center;
+}
+
+.remove-button {
+  height: 100%;
+  border: none;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
